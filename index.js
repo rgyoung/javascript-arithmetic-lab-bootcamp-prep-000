@@ -30,7 +30,7 @@ function makeInt(n) {
 
 function preserveDecimal(n) {
   var n = number;
-  parseFloat(n);
+  parseFloat('n');
 }
 function preserveDecimal(n) {
   parseInt("nonsense");
