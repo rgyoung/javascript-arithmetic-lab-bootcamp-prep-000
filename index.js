@@ -6,12 +6,12 @@ function add(a,b){
   
 return a+b;
 }
-function subtract(){
-  number --;
+function subtract(a,b){
+  return a-b;
 }
-function multiply(){
-  number*number;
+function multiply(a,b){
+  return a*b;
 }
-function divide(){
-  number/number;
+function divide(a,b){
+  a/b;
 }
