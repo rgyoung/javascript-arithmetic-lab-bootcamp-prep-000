@@ -2,9 +2,9 @@
 
 
 
-function add(){
+function add(a,b){
   
-number+number;
+a+b;
 }
 function subtract(){
   number --;
