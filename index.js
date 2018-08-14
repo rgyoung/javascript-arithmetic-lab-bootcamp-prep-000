@@ -23,3 +23,7 @@ function inc(n) {
 function dec(n) {
   return --n;
 }
+
+function parseInt(a,b) {
+  return parseInt(a,b);
+}
